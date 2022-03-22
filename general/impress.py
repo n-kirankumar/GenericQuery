@@ -11,3 +11,5 @@ circle(50,200)
 forward(133)
 end_fill()
 
+#magic love symbol by using turtle
+
